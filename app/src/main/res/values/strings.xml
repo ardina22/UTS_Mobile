@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TugasTengahSemester</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="gambar_profile">Gambar Profile</string>
+    <string name="profilku">Profilku</string>
+    <string name="nama">Nama</string>
+    <string name="nim">Nim</string>
+    <string name="email">Email</string>
+    <string name="lanjut">Lanjut</string>
+    <string name="tambah_note">Tambah Note</string>
+    <string name="nama_note">Nama Note…</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="deskripsiNote">Deskripsi Note…</string>
+    <string name="simpan">Simpan</string>
+    <string name="detail">Detail</string>
+    <string name="id_note">ID Note</string>
+    <string name="kembali">Kembali</string>
+</resources>
